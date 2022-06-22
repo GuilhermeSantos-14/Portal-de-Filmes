@@ -1,0 +1,24 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1000px;
+}
+
+.card {
+    align-items: center;
+    padding: 20px;
+    max-width: 300px;
+    margin: 20px;
+    width: 50px;
+    border: thick solid;
+}
+
+.row {
+
+  display: flex;
+  width: 120rem;
+   
+}
+
+.u-body{
+background-color: #333D4A;
+}
+
