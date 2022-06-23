@@ -12,10 +12,9 @@
 }
 
 .row {
-
   display: flex;
-  width: 120rem;
-   
+  width: 100rem;
+  margin: 20px;
 }
 
 .u-body{
